@@ -25,3 +25,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 4) Arreglos
 5) Clases
 6) Porcentaje de cobertura de la aplicacion, para ejecutarlo coloque `ng test --code-coverage`
+7) EventEmitter
+8) Formularios
