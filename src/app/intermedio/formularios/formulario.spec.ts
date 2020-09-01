@@ -1,7 +1,6 @@
 import { FormularioRegister } from './formulario';
 import { FormBuilder } from '@angular/forms';
 
-
 describe('Formularios', () => {
 
 	let componente: FormularioRegister;
