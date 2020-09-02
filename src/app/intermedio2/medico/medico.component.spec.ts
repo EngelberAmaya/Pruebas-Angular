@@ -2,7 +2,6 @@ import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { MedicoComponent } from './medico.component';
 import { MedicoService } from './medico.service';
-//import { HttpClientTestingModule } from '@angular/common/http/testing';
 import {  HttpClientModule } from '@angular/common/http';
 
 describe('MedicoComponent', () => {

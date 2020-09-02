@@ -22,7 +22,4 @@ describe('Pruebas de strings', () =>{
 
 	})
 
-}); // sirve para agrupar las pruebas
-
-
-//it(); // una prueba en especifico
+}); 
